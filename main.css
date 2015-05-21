@@ -21,15 +21,13 @@ body {
 
 .jumbotron {
   background-image:url('images/cover.jpg');
-  opacity: 0.8;
+  opacity: 0.80;
   filter: alpha (opacity=80);
   height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.jumbotron:hover {
-    opacity: 0.9;
-}
+
 .jumbotron .container {
   position: relative;
   top:300px;
