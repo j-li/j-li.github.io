@@ -2,6 +2,8 @@ body {
   background-color: #E7E3E8;
   position: relative;
     height: 100%;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 100px;
 }
 
 .navbar-fixed-top img {
@@ -11,10 +13,10 @@ body {
 
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  
   font-weight: 100;
-  padding: 3px 10px;
-  text-transform: uppercase;
+  padding: 5px 10px;
+  
 }
 
 .jumbotron {
@@ -44,13 +46,13 @@ body {
   font-family: 'Segoe UI', sans-serif;
     font-size: 20px;
   color: #fff;
-    font-weight: 100px;
+    font-weight: 20px;
 }
 .jumbotron p a {
   font-size: 20px;
-
-    text-decoration: underline;
+ text-decoration: underline;
   color: #fff;
+    
 }
 
 .facts {
@@ -96,16 +98,20 @@ body {
 }
 .navbar-default .navbar-text {
   color: #ecf0f1;
+   
 }
 .navbar-default .navbar-nav > li > a {
   color: #ecf0f1;
+    
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #ffc9ef;
+
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #ffc9ef;
   background-color: #caadfd;
+    height: 40px;
 }
 
 .navbar-default .navbar-link {
