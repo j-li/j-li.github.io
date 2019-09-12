@@ -1594,7 +1594,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #7c8081;
+		color: #616566;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -2067,7 +2067,7 @@
 			}
 
 			table.default thead {
-				background: #7c8081;
+				background: #616566;
 				color: #fff;
 			}
 
@@ -2144,7 +2144,7 @@
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 		padding: 2em;
 	}
 
@@ -2570,7 +2570,7 @@
 
 	#footer {
 		background: #E8EEF4;
-		color: #7c8081;
+		color: #616566;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 		border-radius: none;
@@ -2649,7 +2649,7 @@
 
 			.wrapper {
 				margin-bottom: 4em;
-				padding: 4em 3em;
+				padding: em 3em;
 			}
 
 				.wrapper.style4 {
@@ -3175,11 +3175,11 @@
 				}
 
 				.wrapper.style1 {
-					padding: 0 1.5em;
+					padding: 0 1em;
 				}
 
 				.wrapper.style2 {
-					padding: 0 1.5em;
+					padding: 0 1em;
 				}
 
 				.wrapper.style4 {
