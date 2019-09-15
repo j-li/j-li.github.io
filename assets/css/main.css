@@ -1,14 +1,7 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
 
-/*
-	Twenty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Reset */
-
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
 	blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
 	img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i,
@@ -2144,7 +2137,7 @@
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 		padding: 2em;
 	}
 
@@ -2156,17 +2149,6 @@
 			background-repeat: no-repeat, no-repeat;
 			color: #fff;
 		}
-        .wrapper.style2 h2 { 
-            text-align: left; 
-        }
-        .wrapper.style2 h2:after {
-			background-color: #b9aae3;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-		}
-
 			.wrapper.style2 .button:hover {
 				background: rgba(255, 255, 255, 0.15) !important;
 			}
@@ -2732,7 +2714,7 @@
 				}
 
 				.wrapper.style2 {
-					background-size: 15em;
+                    padding: 0 2.5em;
 				}
 
 				.wrapper.style4 {
@@ -3074,14 +3056,6 @@
 				font-size: 1.25em;
 				letter-spacing: 0.1em;
 			}
-            h2:after {
-			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-		}
-        
 
 			h3 {
 				font-size: 1em;
